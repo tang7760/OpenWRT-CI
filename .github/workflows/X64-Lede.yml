@@ -3,7 +3,8 @@ name: X64-Lede
 
 on:
   push:
-    branches: [master]
+  #手动编译
+    workflow_dispatch:
 
 #CI权限
 permissions: write-all
