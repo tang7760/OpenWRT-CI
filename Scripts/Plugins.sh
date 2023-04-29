@@ -3,7 +3,7 @@
 git clone --depth=1 --single-branch --branch "dev" https://github.com/vernesong/OpenClash.git
 git clone --depth=1 --single-branch https://github.com/xiaoqingfengATGH/luci-theme-infinityfreedom.git
 git clone https://github.com/linkease/istore.git
-git clone https://github.com/kenzok8/small-package
+git clone https://github.com/tang7760/small-package.git
 
 #预置OpenClash内核和GEO数据
 export CORE_VER=https://raw.githubusercontent.com/vernesong/OpenClash/core/dev/core_version
