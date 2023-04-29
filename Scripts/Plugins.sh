@@ -5,6 +5,7 @@ git clone --depth=1 --single-branch https://github.com/xiaoqingfengATGH/luci-the
 git clone -b 18.06 https://github.com/jerrykuku/luci-theme-argon.git
 git clone https://github.com/rufengsuixing/luci-app-adguardhome.git
 git clone https://github.com/sirpdboy/luci-app-ddns-go.git
+git clone https://github.com/linkease/istore.git
 #git clone https://github.com/Lienol/openwrt-package.git
 
 #预置OpenClash内核和GEO数据
